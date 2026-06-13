@@ -1,0 +1,2 @@
+# Shell 脚本强制 LF 行尾，避免在 OpenWrt(ash) 上因 CRLF 报错
+*.sh text eol=lf
